@@ -1,12 +1,12 @@
 {
   "name": "exercicio-node-gabriela",
   "version": "1.0.0",
-  "description": "",
+  "description": "Músicas mais ouvidas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gabriela Bonjestob",
   "license": "ISC"
 }
