@@ -28,3 +28,5 @@ const musics = [
     salvo_playlist: false,
   },
 ];
+
+export default musics;
