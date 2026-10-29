@@ -1,5 +1,11 @@
 import express from "express";
+import musics from "./musics.js";
 
 const app = express();
+const port = 3000;
 
-app.listen(3000, () => console.log("Servidor rodando com sucesso!"));
+app.get("/", (req, res) => {
+  resposta.send(musics);
+});
+
+app.listen(port, () => console.log(`Servidor rodando na porta ${port}`));
