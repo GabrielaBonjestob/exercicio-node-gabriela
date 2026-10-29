@@ -2,7 +2,8 @@
   "name": "exercicio-node-gabriela",
   "version": "1.0.0",
   "description": "Músicas mais ouvidas",
-  "main": "index.js",
+  "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
